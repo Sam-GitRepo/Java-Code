@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 
 //import javax.sound.sampled.SourceDataLine;
