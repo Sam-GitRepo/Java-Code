@@ -1,3 +1,4 @@
+import java.util.*;
 package Array;
 
 public class array_indexing {
