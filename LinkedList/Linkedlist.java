@@ -1,4 +1,4 @@
-package .vscode.LinkedList;
+package.vscode.LinkedList;
 import java.util.*;
 
 public class Linkedlist {

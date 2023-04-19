@@ -1,5 +1,4 @@
-pa
-ckage Basic;
+package Basic;
 //package Basic;
 import java.util.Scanner;
 
