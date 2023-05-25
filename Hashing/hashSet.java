@@ -41,14 +41,7 @@ public class hashSet {
         while(it.hasNext()){
             System.out.println("loop "+it.next());
         }
-
-
-
-
-
-
-       
-        
+  
 
     }
 
