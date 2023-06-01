@@ -66,7 +66,7 @@ public class hashMap {
 
 // fuel(key)| price(value)
 // ------------------
-// Cng | 70
+// Cng    | 70
 // diesel | 80
 // petrol | 90
 
