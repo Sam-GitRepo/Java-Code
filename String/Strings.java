@@ -3,9 +3,9 @@ package String;
 import java.util.*;
 public class Strings {
     public static void main(String[] args) {
-        // Scanner in = new Scanner(System.in);
-        // String name = in.nextLine();
-        // System.out.println(name);
+        Scanner in = new Scanner(System.in);
+        String name = in.nextLine();
+        System.out.println(name);
 
         //concatenation
         String firstName = "Hello";
