@@ -39,3 +39,7 @@ public class BinarySearch {
 
     }
 }
+
+// Time Complexity O(log n)
+
+// Search algorithm that finds the position of target value within sorted array, half of the array is eliminated during each step
