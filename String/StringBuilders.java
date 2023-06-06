@@ -1,6 +1,6 @@
 package String;
 
-import java.util.*;
+// import java.util.*;
 public class StringBuilders {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Sam");
