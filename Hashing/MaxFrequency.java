@@ -14,14 +14,10 @@ public class MaxFrequency {
                 nums.put(el, nums.get(el) + 1);
             }
         }
+        System.out.println(nums.keySet());
         int maxFreq = 0, ansKey = -1;
 
-        // for(int el : nums.entrySet()){
-        // if(el.getValue() > maxFreq){
-        // maxFreq = el.getValue();
-        // ansKey = el.getKey();
-        // }
-        // }
+      
 
         for (int key : nums.keySet()) {
             if (nums.get(key) > maxFreq) {
