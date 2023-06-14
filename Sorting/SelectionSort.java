@@ -5,8 +5,8 @@ public class SelectionSort {
         for(int i = 0; i < arr.length; i++){
             System.out.print(arr[i] + " ");
         }
-        
     }
+    
     static void selection(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             // find the max item in the remaining array and swap with correct index
