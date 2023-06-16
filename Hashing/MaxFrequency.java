@@ -15,9 +15,8 @@ public class MaxFrequency {
             }
         }
         System.out.println(nums.keySet());
-        int maxFreq = 0, ansKey = -1;
-
-      
+        System.out.println(nums.entrySet());
+        int maxFreq = 0, ansKey = 0;
 
         for (int key : nums.keySet()) {
             if (nums.get(key) > maxFreq) {
