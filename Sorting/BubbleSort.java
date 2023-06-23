@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class BubbleSort {
     public static void main(String[] args) {
-        int[] arr = {10,21,1,3,21,312,5,2,4,65,32};
+        int[] arr = {10,21,1,3,21,312,5,2,4,65};
         bubble(arr);
         System.out.println(Arrays.toString(arr));
     }
